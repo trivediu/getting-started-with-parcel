@@ -1,0 +1,22 @@
+{
+  "name": "parcelBasic",
+  "version": "1.0.0",
+  "description": "Get Started with a Basic Parcel and React Setup",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivediu/parcelBasic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trivediu/parcelBasic/issues"
+  },
+  "homepage": "https://github.com/trivediu/parcelBasic#readme"
+}

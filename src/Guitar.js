@@ -1,3 +1,5 @@
+import React from "react";
+
 export const Guitar = props => {
   return React.createElement("div", {}, [
     React.createElement("h1", {}, props.make),

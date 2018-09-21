@@ -10,4 +10,4 @@ Link to article:  <a href="https://medium.com/@trivediu/getting-started-with-par
 
 Connect with me:  
 <a href="https://twitter.com/udaystrivedi">Twitter</a>
-<a href="https://linkedin/in/trivediu">LinkedIn</a>
+<a href="https://www.linkedin.com/in/trivediu/">LinkedIn</a>
